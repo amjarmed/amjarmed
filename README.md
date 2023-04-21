@@ -25,8 +25,8 @@ I'm a web developer with [2] years of experience. I specialize in front-end deve
 
 ## Contact Me
 
-- Email: [your-email@domain.com](mailto:your-email@domain.com)
-- LinkedIn: [Your LinkedIn profile URL](https://www.linkedin.com/in/amjarmed/)
-- Website: [Your personal website URL](https://www.amjarmed.com/)
+- Email: [contact me](mailto:your-email@domain.com)
+- LinkedIn: [amjarmed](https://www.linkedin.com/in/amjarmed/)
+- Website: [amjarmed](https://www.amjarmed.com/)
 
 Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project!
