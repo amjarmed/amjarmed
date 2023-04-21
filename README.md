@@ -11,18 +11,17 @@ I'm a web developer with [2] years of experience. I specialize in front-end deve
 - HTML/CSS
 - JavaScript
 - jQuery
-- React
-- Angular
 - Node.js
-- Express.js
-- MongoDB
+- Php
+- Mysql
+- Wordpress
 - Git
 
 ## Projects
 
-- [Project 1](https://github.com/user/project1) - Description of project
-- [Project 2](https://github.com/user/project2) - Description of project
-- [Project 3](https://github.com/user/project3) - Description of project
+- [Project 1](https://github.com/amjarino/npm-scripts-starter) - npm-scripts-starter
+- [Project 2](https://github.com/amjarino/loremarabic) - loremarabic
+- [Project 3](https://www.amjarmed.com/) - My website
 
 ## Contact Me
 
