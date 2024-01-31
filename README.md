@@ -14,10 +14,10 @@
 - hobbies: video editing, photography, reading 
 
 ## GitHub Repos
-
-- [Project 1](https://github.com/amjarino/npm-scripts-starter) - npm-scripts-starter
-- [Project 2](https://github.com/amjarino/loremarabic) - loremarabic
-- [Project 3](https://www.amjarmed.com/) - My website
+- [Awesome AnyType Resources](https://github.com/amjarino/Awesome-AnyType-Resources) 
+- [npm scripts starter](https://github.com/amjarino/npm-scripts-starter) 
+- [loremarabic](https://github.com/amjarino/loremarabic) 
+- [My website](https://www.amjarmed.com/) 
 
 ## Contact Me
 
