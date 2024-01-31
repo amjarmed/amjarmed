@@ -4,8 +4,8 @@
 
 <table>
  <row>
-  <td>![amjarino's GitHub stats](https://github-readme-stats.vercel.app/api?username=amjarino&show_icons=true&theme=radical) </td>
-   <td>![amjarino's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=amjarino) </td>
+  <td> ![amjarino's GitHub stats](https://github-readme-stats.vercel.app/api?username=amjarino&show_icons=true&theme=radical) </td>
+   <td> ![amjarino's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=amjarino) </td>
  </row>
 </table>
 
