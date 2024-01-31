@@ -2,6 +2,9 @@
 
 # Hi there, I'm [Mohamed Amjar] 👋
 
+```
+![Visitor Count](https : //profile-counter.glitch.me/amjarino/count.svg)
+```
 ## About Me
 
  I'm passionate about creating clean, responsive, and user-friendly websites and Android applications, that provide a great user experience.
