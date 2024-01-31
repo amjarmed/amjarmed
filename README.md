@@ -59,7 +59,7 @@ Feel free to reach out to me if you have any questions or if you're interested i
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <!--  https://ileriayo.github.io/markdown-badges/ -->
  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" style="vertical-align:top; margin:4px">
- <img src="hhttps://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" style="vertical-align:top; margin:4px">
+ <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" style="vertical-align:top; margin:4px">
  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="htnl" style="vertical-align:top; margin:4px">
  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css" style="vertical-align:top; margin:4px">
  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js" style="vertical-align:top; margin:4px">
