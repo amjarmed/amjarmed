@@ -4,7 +4,7 @@
 
 
 ![Visitor Count](https://profile-counter.glitch.me/amjarino/count.svg)
-
+![amjarino's GitHub stats](https://github-readme-stats.vercel.app/api?username=amjarino&show_icons=true&theme=radical)
 ## About Me
 
  I'm passionate about creating clean, responsive, and user-friendly websites and Android applications, that provide a great user experience.
