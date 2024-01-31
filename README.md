@@ -35,4 +35,6 @@
 - LinkedIn: [amjarmed](https://www.linkedin.com/in/amjarmed/)
 - Website: [amjarmed](https://www.amjarmed.com/)
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/amjarino)
+
 Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project!
