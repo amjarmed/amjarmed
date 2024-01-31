@@ -46,12 +46,11 @@
 <p align="center">Made with ❤️ in Morocco</p>
 
 <p align="center"> <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1> </p>
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/amjarmed)
-
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/amjarmed)
 </p>
+
+Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project!
 
 
 <p align="center">
@@ -74,4 +73,6 @@
 
 </p>
 
-Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project!
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
