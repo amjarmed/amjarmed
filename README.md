@@ -4,20 +4,16 @@
 
 ## About Me
 
-I'm a web developer with 2 years of experience. I specialize in front-end development and have worked on projects ranging from small websites to large web applications. I'm passionate about creating clean, responsive, and user-friendly designs that provide a great user experience.
+ I'm passionate about creating clean, responsive, and user-friendly websites and Android applications, that provide a great user experience.
 
-## Skills
+## Skills 
 
-- HTML/CSS
-- JavaScript
-- jQuery
-- Node.js
-- Php
-- Mysql
-- Wordpress
-- Git
+- Web Development: HTML/CSS, JavaScript, jQuery, Node.js, PHP, Mysql, WordPress
+- Android Development: Kotlin, Jetpack Compose
+- Tools: Git, GitHub, ms office
+- hobbies: video editing, photography, reading 
 
-## Projects
+## GitHub Repos
 
 - [Project 1](https://github.com/amjarino/npm-scripts-starter) - npm-scripts-starter
 - [Project 2](https://github.com/amjarino/loremarabic) - loremarabic
@@ -25,7 +21,7 @@ I'm a web developer with 2 years of experience. I specialize in front-end develo
 
 ## Contact Me
 
-- Email: [contact me](mailto:your-email@domain.com)
+- Email: [contact me](mailto:)
 - LinkedIn: [amjarmed](https://www.linkedin.com/in/amjarmed/)
 - Website: [amjarmed](https://www.amjarmed.com/)
 
