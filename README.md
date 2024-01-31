@@ -9,7 +9,7 @@
  </row>
 </table>
 
-![Visitor Count](https://profile-counter.glitch.me/amjarino/count.svg)
+<p align="center"> <img src="https://profile-counter.glitch.me/amjarino/count.svg"/> </p>
 
 
 ## About Me
@@ -70,7 +70,7 @@ Feel free to reach out to me if you have any questions or if you're interested i
 <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="bash" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="bash" style="vertical-align:top; margin:4px">
  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="bash" style="vertical-align:top; margin:4px">
-</p> -->
+</p> 
 
 
 <p align="center">
