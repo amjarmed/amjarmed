@@ -51,9 +51,9 @@
   <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="buymeacoffee" > 
  </a>
 </p>
-
+<p align="center">
 Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project!
-
+</p>
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
