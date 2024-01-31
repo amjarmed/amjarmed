@@ -45,10 +45,8 @@
  <a href="https://www.buymeacoffee.com/amjarmed" style="vertical-align:top; margin:4px">
   <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="buymeacoffee" > 
  </a>
- ## Contact Me
-
-
 </p>
+<h4 align="center"> 📨 Contact Me </h4>
 <p align="center"> 
  <a href="https://www.linkedin.com/in/amjarmed/ " style="vertical-align:top; margin:4px">LinkedIn </a> |
  <a href="https://www.instagram.com/amjarmed_1/" style="vertical-align:top; margin:4px">instagram </a> |
