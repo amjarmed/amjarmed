@@ -5,11 +5,11 @@
 <table>
  <row>
   <td> <img src="https://github-readme-stats.vercel.app/api?username=amjarino&show_icons=true&theme=radical"/> </td>
-  <td> <img src="https://github-contributor-stats.vercel.app/api?username=amjarino"/> </td>
+  <td><p align="center"> <img src="https://profile-counter.glitch.me/amjarino/count.svg"/> </p> </td>
  </row>
 </table>
 
-<p align="center"> <img src="https://profile-counter.glitch.me/amjarino/count.svg"/> </p>
+
 
 
 ## About Me
