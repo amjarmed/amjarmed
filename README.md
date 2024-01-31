@@ -5,7 +5,8 @@
 ![amjarino's GitHub stats](https://github-readme-stats.vercel.app/api?username=amjarino&show_icons=true&theme=radical)
 
 ![amjarino's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=amjarino)
-![Visitor Count](https://profile-counter.glitch.me/amjarino/count.svg)
+
+visitors count : ![Visitor Count](https://profile-counter.glitch.me/amjarino/count.svg)
 
 
 ## About Me
