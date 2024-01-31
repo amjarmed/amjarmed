@@ -1,6 +1,6 @@
 
 
-# Hi there, I'm [Mohamed Amjar] 👋
+# Hi there, I'm Mohamed Amjar 👋
 
 
 ![Visitor Count](https://profile-counter.glitch.me/amjarino/count.svg)
