@@ -29,11 +29,6 @@
 - [loremarabic](https://github.com/amjarino/loremarabic) 
 - [My website](https://www.amjarmed.com/) 
 
-## Contact Me
-
-- Email: [contact me](mailto:)
-- LinkedIn: [amjarmed](https://www.linkedin.com/in/amjarmed/)
-- Website: [amjarmed](https://www.amjarmed.com/)
 
 <br />
 
@@ -50,6 +45,14 @@
  <a href="https://www.buymeacoffee.com/amjarmed" style="vertical-align:top; margin:4px">
   <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="buymeacoffee" > 
  </a>
+ ## Contact Me
+
+
+</p>
+<p align="center"> 
+ <a href="https://www.linkedin.com/in/amjarmed/ " style="vertical-align:top; margin:4px">LinkedIn </a> |
+ <a href="https://www.instagram.com/amjarmed_1/" style="vertical-align:top; margin:4px">instagram </a> |
+ <a href="mailto: " style="vertical-align:top; margin:4px">email </a> 
 </p>
 <p align="center">
 Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project!
