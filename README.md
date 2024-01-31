@@ -47,7 +47,9 @@
 
 <p align="center"> <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1> </p>
 <p align="center">
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/amjarmed)
+ <a href="https://www.buymeacoffee.com/amjarmed" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" > 
+ </a>
 </p>
 
 Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project!
