@@ -3,7 +3,7 @@
 # Hi there, I'm [Mohamed Amjar] 👋
 
 
-![Visitor Count](https : //profile-counter.glitch.me/amjarino/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/amjarino/count.svg)
 
 ## About Me
 
