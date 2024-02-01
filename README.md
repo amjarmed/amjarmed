@@ -2,10 +2,10 @@
 
 # Hi there, I'm Mohamed Amjar 👋
 
-<table align="center" width="100%">
+<table align="center">
  <row>
   <td> <img src="https://github-readme-stats.vercel.app/api?username=amjarino&show_icons=true&theme=radical"/> </td>
-  <td><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeNathan&layout=compact&theme=amjarino"/> </p> </td>
+  <td><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amjarino&layout=compact&theme=tokyonight"/> </p> </td>
  </row>
 </table>
 
