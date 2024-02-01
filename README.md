@@ -5,7 +5,7 @@
 <table>
  <row>
   <td> <img src="https://github-readme-stats.vercel.app/api?username=amjarino&show_icons=true&theme=radical"/> </td>
-  <td><p align="center"> <img src="https://profile-counter.glitch.me/amjarino/count.svg"/> </p> </td>
+  <td><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeNathan&layout=compact&theme=amjarino"/> </p> </td>
  </row>
 </table>
 
