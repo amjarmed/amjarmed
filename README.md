@@ -6,9 +6,12 @@
  <row>
  
   <td>
-    <p>Here, some stats about my Github usage (yeah, I know, it's still low stats)</p>
-   <img src="https://github-readme-stats.vercel.app/api?username=amjarino&show_icons=true&theme=radical"/> </td>
-  <td><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amjarino&layout=compact&theme=tokyonight"/> </p> </td>
+    <p align="center">Here, some stats about my Github usage (yeah, I know, it's still low stats)</p>
+   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=amjarino&show_icons=true&theme=radical"/> </p>
+  </td>
+  <td>
+   
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amjarino&layout=compact&theme=tokyonight"/> </p> </td>
  </row>
 </table>
 
