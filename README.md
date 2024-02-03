@@ -9,7 +9,7 @@
    <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=amjarino&show_icons=true&theme=radical"/> </p>
   </td>
   <td>
-   
+   <p> follow me in GitHub  </p>
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amjarino&layout=compact&theme=tokyonight"/> </p> </td>
  </row>
 </table>
