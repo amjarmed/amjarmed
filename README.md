@@ -51,6 +51,10 @@
  <a href="https://www.buymeacoffee.com/amjarmed" style="vertical-align:top; margin:4px">
   <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="buymeacoffee" > 
  </a>
+<!--   <a href="https://www.buymeacoffee.com/amjarmed" style="vertical-align:top; margin:4px">
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="buymeacoffee" > 
+ </a> -->
+ https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9V8PY22DDXMVC
 </p>
 <h4 align="center"> 📨 Contact Me </h4>
 <p align="center"> 
