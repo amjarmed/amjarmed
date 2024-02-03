@@ -4,7 +4,6 @@
 
 <table align="center">
  <row>
- 
   <td>
     <p align="center">Here, some stats about my Github usage (yeah, I know, it's still low stats)</p>
    <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=amjarino&show_icons=true&theme=radical"/> </p>
