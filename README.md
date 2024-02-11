@@ -1,7 +1,14 @@
 
 
 # Hi there, I'm Mohamed Amjar 👋
+<style>
 
+   @media screen and (max-width:720px){
+     style{
+    width: 100%
+   }
+ }
+</style>
 <table align="center">
  <row>
   <td>
