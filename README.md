@@ -1,15 +1,7 @@
 
 
 # Hi there, I'm Mohamed Amjar 👋
-<style>
-
-   @media screen and (max-width:720px){
-     style{
-    width: 100%
-   }
- }
-</style>
-<table align="center">
+<table align="center" >
  <row>
   <td>
     <p align="center">Here, some stats about my Github usage (yeah, I know, it's still low stats)</p>
