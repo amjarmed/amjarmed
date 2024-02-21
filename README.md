@@ -22,7 +22,7 @@
 
 ## Skills 
 
-- Web Development: HTML/CSS, JavaScript, jQuery, Node.js, PHP, Mysql, WordPress
+- Web Development: HTML/CSS, JavaScript, jQuery, bootstrap, sass, Node.js, PHP, Mysql, WordPress
 - Android Development: Kotlin, Jetpack Compose
 - Tools: Git, GitHub, ms office
 - hobbies: video editing, photography, reading 
