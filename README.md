@@ -73,12 +73,6 @@
 </p>
 <h4 align="center"> 📨 Contact Me </h4>
 <p align="center"> 
- <a href="https://www.linkedin.com/in/amjarmed/ " style="vertical-align:top; margin:4px">LinkedIn </a> |
- <a href="https://www.instagram.com/amjarmed_1/" style="vertical-align:top; margin:4px">instagram </a> |
- <a href="mailto: " style="vertical-align:top; margin:4px">email </a> 
-
- 
-<br/>
 <a href="https://twitter.com/amjarmed">
   <img align="left" alt="Mohamed Amjar| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -103,7 +97,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=8bithemant.8bithemant)
 
-<br />
+
 </p>
 <p align="center">
 Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project!
