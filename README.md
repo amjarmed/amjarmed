@@ -76,6 +76,34 @@
  <a href="https://www.linkedin.com/in/amjarmed/ " style="vertical-align:top; margin:4px">LinkedIn </a> |
  <a href="https://www.instagram.com/amjarmed_1/" style="vertical-align:top; margin:4px">instagram </a> |
  <a href="mailto: " style="vertical-align:top; margin:4px">email </a> 
+
+ 
+<br/>
+<a href="https://twitter.com/amjarmed">
+  <img align="left" alt="Mohamed Amjar| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/amjarmed/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/amjarmed">
+  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/amjarmed/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.reddit.com/user/amjarmed/">
+  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+<a href="https://leetcode.com/amjarmed/">
+  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+<a href="https://www.codechef.com/users/amjarmed">
+  <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=8bithemant.8bithemant)
+
+<br />
 </p>
 <p align="center">
 Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project!
