@@ -86,7 +86,7 @@
 
 </p>
 <h4 align="center"> 📨 Contact Me </h4>
-<p align="center" style="width:50%; margin:auto"> 
+<p align="center" style="width:50%; margin:auto ; background: red;"> 
 <a href="https://twitter.com/amjarmed">
   <img align="left" alt="Mohamed Amjar| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
