@@ -1,6 +1,6 @@
 
 
-# Hi there, I'm Mohamed Amjar 👋
+<h1 align="center" >Hi there, I'm Mohamed Amjar 👋 </h1> 
 <table align="center" >
  <row>
   <td>
