@@ -54,9 +54,13 @@
  <a href="https://github.com/amjarmed/aora-react-native-app" style="vertical-align:top; margin:4px"> Aora (mobile app)</a><br />
  <a href="https://github.com/amjarmed/ocean-crm-dashboard" style="vertical-align:top; margin:4px"> ocean CRM dashboard</a><br />
  <a href="https://github.com/amjarmed/nextjs-sanity-blog" style="vertical-align:top; margin:4px"> Postify (blogging system)</a><br />
+ <a href="https://github.com/amjarmed/nextjs-project-blog-posts-api" style="vertical-align:top; margin:4px"> InspireWire (blog reader )</a><br />
  
 ### Some of my Open Source Packages & Tools:
- <a href="https://github.com/amjarmed/100-nextjs-snippets" style="vertical-align:top; margin:4px"> 100-nextjs-snippets" (vsCode extention)</a><br />
+ <a href="https://github.com/amjarmed/100-nextjs-snippets" style="vertical-align:top; margin:4px"> 100-nextjs-snippets (vsCode extention)</a><br />
+ <a href="https://github.com/amjarmed/MotionPrime" style="vertical-align:top; margin:4px"> MotionPrime (CSS animation library)</a><br />
+ <a href="https://github.com/amjarmed/loremarabic" style="vertical-align:top; margin:4px"> Loremarabic (generate arabic lorem text,)</a><br />
+ <a href="https://github.com/amjarmed/socialmedia-css-colors" style="vertical-align:top; margin:4px"> socialmedia-css-colors classes</a><br />
 
 <br />
 
