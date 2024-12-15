@@ -4,11 +4,11 @@
 <table align="center" >
  <row>
   <td>
-    <p align="center">Here, some stats about my Github usage (yeah, I know, it's still low stats)</p>
+   
    <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=amjarmed&show_icons=true&theme=radical"/> </p>
   </td>
   <td>
-   <p> follow me in GitHub  </p>
+
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amjarmed&layout=compact&theme=tokyonight"/> </p> </td>
  </row>
 </table>
