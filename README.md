@@ -48,15 +48,15 @@
 </p> 
 
 ### Some of my Full-stack Projects (open sources):
- <a href="https://www.amjarmed.com/" style="vertical-align:top; margin:4px"> Personal Portfolio (v2)</a>
- <a href="https://github.com/amjarmed/care-pulse" style="vertical-align:top; margin:4px"> carePulse</a>
- <a href="https://github.com/amjarmed/jsm-banking" style="vertical-align:top; margin:4px"> HORIZON BANK</a>
- <a href="https://github.com/amjarmed/aora-react-native-app" style="vertical-align:top; margin:4px"> Aora (mobile app)</a>
- <a href="https://github.com/amjarmed/ocean-crm-dashboard" style="vertical-align:top; margin:4px"> ocean CRM dashboard</a>
- <a href="https://github.com/amjarmed/nextjs-sanity-blog" style="vertical-align:top; margin:4px"> Postify (blogging system)</a>
+ <a href="https://www.amjarmed.com/" style="vertical-align:top; margin:4px"> Personal Portfolio (v2)</a><br />
+ <a href="https://github.com/amjarmed/care-pulse" style="vertical-align:top; margin:4px"> carePulse</a><br />
+ <a href="https://github.com/amjarmed/jsm-banking" style="vertical-align:top; margin:4px"> HORIZON BANK</a><br />
+ <a href="https://github.com/amjarmed/aora-react-native-app" style="vertical-align:top; margin:4px"> Aora (mobile app)</a><br />
+ <a href="https://github.com/amjarmed/ocean-crm-dashboard" style="vertical-align:top; margin:4px"> ocean CRM dashboard</a><br />
+ <a href="https://github.com/amjarmed/nextjs-sanity-blog" style="vertical-align:top; margin:4px"> Postify (blogging system)</a><br />
  
 ### Some of my Open Source Packages & Tools:
- <a href="https://github.com/amjarmed/100-nextjs-snippets" style="vertical-align:top; margin:4px"> 100-nextjs-snippets" (vsCode extention)</a>
+ <a href="https://github.com/amjarmed/100-nextjs-snippets" style="vertical-align:top; margin:4px"> 100-nextjs-snippets" (vsCode extention)</a><br />
 
 <br />
 
