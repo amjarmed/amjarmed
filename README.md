@@ -61,6 +61,8 @@
  <a href="https://github.com/amjarmed/MotionPrime" style="vertical-align:top; margin:4px"> MotionPrime (CSS animation library)</a><br />
  <a href="https://github.com/amjarmed/loremarabic" style="vertical-align:top; margin:4px"> Loremarabic (generate arabic lorem text,)</a><br />
  <a href="https://github.com/amjarmed/socialmedia-css-colors" style="vertical-align:top; margin:4px"> socialmedia-css-colors classes</a><br />
+ <a href="https://github.com/amjarmed/AnyType-custom-ui-style" style="vertical-align:top; margin:4px"> AnyType-custom-ui-style</a><br />
+ <a href="https://github.com/amjarmed/Awesome-AnyType-Resources" style="vertical-align:top; margin:4px"> Awesome-AnyType-Resources (+80🌟)</a><br />
 
 <br />
 
