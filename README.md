@@ -102,7 +102,7 @@
 <a href="https://www.reddit.com/user/amjarmed/">
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-<a href="https://leetcode.com/amjarmed/">
+<a href="https://leetcode.com/amjarmed/" style="color:white">
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 <a href="https://www.codechef.com/users/amjarmed">
