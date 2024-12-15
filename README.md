@@ -47,8 +47,16 @@
 
 </p> 
 
-
-
+### Some of my Full-stack Projects (open sources):
+ <a href="https://www.amjarmed.com/" style="vertical-align:top; margin:4px"> Personal Portfolio (v2)</a>
+ <a href="https://github.com/amjarmed/care-pulse" style="vertical-align:top; margin:4px"> carePulse</a>
+ <a href="https://github.com/amjarmed/jsm-banking" style="vertical-align:top; margin:4px"> HORIZON BANK</a>
+ <a href="https://github.com/amjarmed/aora-react-native-app" style="vertical-align:top; margin:4px"> Aora (mobile app)</a>
+ <a href="https://github.com/amjarmed/ocean-crm-dashboard" style="vertical-align:top; margin:4px"> ocean CRM dashboard</a>
+ <a href="https://github.com/amjarmed/nextjs-sanity-blog" style="vertical-align:top; margin:4px"> Postify (blogging system)</a>
+ 
+### Some of my Open Source Packages & Tools:
+ <a href="https://github.com/amjarmed/100-nextjs-snippets" style="vertical-align:top; margin:4px"> 100-nextjs-snippets" (vsCode extention)</a>
 
 <br />
 
@@ -65,7 +73,7 @@
 <p align="center">
  <a href="https://www.buymeacoffee.com/amjarmed" style="vertical-align:top; margin:4px">
   <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="buymeacoffee" > 
-
+ </a>
    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9V8PY22DDXMVC" style="vertical-align:top; margin:4px">
   <img src="https://www.paypalobjects.com/en_US/i/btn/btn_subscribe_LG.gif" alt="buymeacoffee" /> 
  </a> 
