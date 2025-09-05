@@ -3,6 +3,8 @@
   Frontend Engineer • Next.js (App Router) • TypeScript • TailwindCSS • React Native • OSS Author
   <br/>
   Based in Morocco • Learning German (A1 → B1 in progress) • Photography & Content Creator
+  <br/>
+  🌍 Languages: Arabic (native) • English (intermediate) • French (intermediate) • German (learning)
 </p>
 
 ---
@@ -97,3 +99,4 @@
 ---
 
 <p align="center">Made with ❤️ in Morocco — Frontend, OSS & Photography</p>
+```0
